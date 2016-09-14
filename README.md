@@ -1,4 +1,4 @@
 # HellowWorld
 ## 我 I am wizard Bai,A mad scientist
 ### BJUT
-<font color=gray size=72>color=gray</font>
+<font color=blue size=72>Very Blue</font>

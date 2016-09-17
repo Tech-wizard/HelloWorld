@@ -1,4 +1,4 @@
 # HellowWorld
-## 我 I am wizard Bai,A mad scientist
+## 我 I am wizard Bai
 ### BJUT
-<font color=#0099ff size=7 face="黑体"> 蛤蛤蛤</font>
+<font color=#0099ff size=7 face="微软雅黑"> 蛤蛤蛤</font>

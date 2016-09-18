@@ -1,14 +1,15 @@
 function print(x:number):void {
+ var str : string  = "";
 
-    for(var j; j<x; j++){
+    for(var j=0; j<x; j++){
+        str="";
        for(var k=0;k<x-j-1;k++){
-            console.log(" ")
+            str+=" ";
         }
-            for(var i; i<(2*x-1)+1; i++){
-       
-        console.log("*");
-    }
-     console.log("\n");
+       for(var i=0; i<2*j+1; i++){
+            str+="*";
+        }
+     console.log(str);
     }
 }
 

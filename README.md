@@ -5,7 +5,7 @@
 >####姓名：白宇昆
 >#####目前在北京工业大学数字媒体技术专业就读
 >## 师从 Wander Wang 漫步者王 学习HTML5游戏开发
->>####在王泽老师的指点下终于创建了属于自己的GITUP空间,以后作业都交到这里
+>>####在王泽老师的指点下终于创建了属于自己的GitHub空间,以后作业都交到这里
 
 ![wander](http://ww4.sinaimg.cn/thumb300/6671deaajw1dghmpc1m18j.jpg "Wander")
 https://github.com/WanderWang

@@ -11,4 +11,4 @@ function print(x) {
         console.log(str);
     }
 }
-print(3);
+print(10);

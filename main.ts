@@ -1,17 +1,15 @@
-function print(x:number):void {
- var str : string  = "";  
-
-    for(var j=0; j<x; j++){
-        str="";
-       for(var k=0;k<x-j-1;k++){
-            str+=" ";
+function Print_Pyramid(totalLine: number):void {
+ for (var currentLine = 0; currentLine < totalLine; currentLine++) {
+        var singleLineStr = "";
+        for (var spaceCount = totalLine - currentLine; spaceCount > 0; spaceCount--) {
+            singleLineStr += " ";
         }
-       for(var i=0; i<2*j+1; i++){
-            str+="*";
+        for (var starCount = 0; starCount < (currentLine * 2) - 1; starCount++) {
+            singleLineStr += "*";
         }
-     console.log(str);  //因为换行所以每行用string和在一起输出一次
+        console.log(singleLineStr);
     }
 }
 
 
-print(3);
+Print_Pyramid(5);
